@@ -4,4 +4,4 @@ I'm a backend enthusiast who would do just about anything for a cup of *peach te
 
 Love C# and Go and them Goth girls as well
 
-Hate DevOps with a passion. Kubernetes and AWS can go die in *hell*
+Update: I hate Google Cloud Platform now
